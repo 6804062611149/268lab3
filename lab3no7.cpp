@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    int x=-1,y=-1,z=-1;
+    int x=1,y=1,z=0;
     if (x>0) {
         printf("Black ");
         if (y>0)
@@ -16,4 +16,5 @@ int main() {
             printf("Pink ");
         printf("White ");
 }
+
 
